@@ -50,7 +50,7 @@ standardized level ~ !risk
 
 user familiarity ~ !risk
 
-## Object Oriented Tech.
+## Object Oriented Tech. (From Guest Slides)
 
 ### Priciples
 
