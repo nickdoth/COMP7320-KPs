@@ -63,6 +63,43 @@ standardized level ~ !risk
 
 user familiarity ~ !risk
 
+## Determine Requirements
+
+_*Teach you how to face with gods_
+
+### What Will Be Done By a Good Systems Analyst
+
+- Question anything
+- Consider all issues to find the best solution
+- Assume everything is possible
+- Everything in detail must be awared
+- Challenge new things and new ways
+
+### Deliverables for Requirement Determination
+
+- From interviews and observations
+- From existing writing documents: 
+- From computerized docuements: JAD esults, CASE repos
+
+### Requirement Determination Methods
+
+- Interviewing group/individual
+- Observating workers
+- Studying business docuemnts
+
+#### Interview
+
+- Plan
+- Listen carefully
+- Review notes
+- Be neutral (❓)
+- Find different ideas (from others?).
+
+#### Direct Observation
+
+- 
+- Cost time
+
 ## Object Oriented Tech. (From Guest Slides)
 
 ### Priciples
