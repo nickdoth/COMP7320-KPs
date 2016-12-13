@@ -173,7 +173,3 @@ lower quilty, inconsistant design, may add more and more features
 2. Project scope is **focused**, such that the business objectives are well defined and narrow.
 3. Application is highly interactive, has a clearly defined user group, and is not **computationally complex**.
 4. Functionality of the system is **clearly visible at the user interface**.
-
-## Guest Slide
-
-San Francisco System is not important
