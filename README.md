@@ -159,9 +159,8 @@ Combination Linear and Iterative.
 5. Requirement exists for strong approval and documentation control.
 
 ### RAD
-...
+😈
 
-_(CHAOS & BE EVIL)_😈
 #### Pros
 **FAST, CHEAP, READILY(FOR ALL), FLEXIBLE**
 
