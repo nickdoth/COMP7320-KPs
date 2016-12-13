@@ -37,6 +37,15 @@ Systems Developement Life Cycle:
 
 Turning over some or all of the responsibility of an organization's information systems applications/operations to outside firm.
 
+## Project Management (Ch.3)
+
+### Project Management Phrases
+
+- Initiation
+- Planning
+- Execution
+- Closedown
+
 ## Project Risk Factors (Ch.5)
 
 - Project Size
