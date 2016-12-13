@@ -167,7 +167,7 @@ _(CHAOS & BE EVIL)_
 **FAST, CHEAP, READILY(FOR ALL), FLEXIBLE**
 
 #### Cons
-Developed system may be not satisfy the business requirement.
+Developed system may not satisfy the business requirement.
 
 lower quilty, inconsistant design, may add more and more features
 
