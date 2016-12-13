@@ -48,10 +48,10 @@ Turning over some or all of the responsibility of an organization's information 
 
 ## Project Risk Factors (Ch.5)
 
-- Project Size
-- Project structure
-- Dvelopment Group
-- User Group
+- Project Size - Team size, project duration, organizational departmants
+- Project structure - New vs. renovated system, resulting organizational changes, management commitment, user perceptions
+- Dvelopment Group - Developer familarity with platform, software, application area, development of similar systems
+- User Group - User familarity with IS development process, application area, use of similar systems
 
 Generally,
 
