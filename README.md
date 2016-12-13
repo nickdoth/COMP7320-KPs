@@ -187,3 +187,12 @@ lower quilty, inconsistant design, may add more and more features
 - Worldview
 - Owner
 - Environmental Constraint
+
+### Example - iPhone
+
+- Customers: iPhone device users
+- Actors: Designers and engineers from Apple
+- Transform: Jobs only available on desktop -> Jobs available even in toilet
+- Worldview: People can only work near the desk with keyboard and pen, which is not convenient
+- Owner: Apple Inc.
+- Environment: Battery, Wireless Network, etc.
