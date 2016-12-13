@@ -114,14 +114,14 @@ It is used to manage some parts if another complete methodology.
 1. Be able to solve the problem that users cannot clearly tell their needs, as well as the problem that analysts cannot understand user's need. (via providing a tentative(sth. in draft) for experimental purposes.)
 2. Improves user paticipation in system developement.
 3. Useful for resovling unclear objectives.
-4. Can use knowledge exported from early iterations. (?)
+4. Can use knowledge exported from early iterations. (❓)
 
 #### Cons
 
 1. Not being strict.
 2. Problem analysis may be incomplete and thus only the most obvious and **superficial**(not being deep) needs will be addressed, resulting inefficient practices being easily built into the new system.
 3. Requirements may frequently change significantly.
-4. Identification of non-functional elements is difficult to document. (?)
+4. Identification of non-functional elements is difficult to document.(❓)
 5. Designers may neglect documentation, resulting in insufficient justification for the final product and inadequate records for the future. (Why they will have narrow focus when they prototype quickly?)
 
 #### Use Prototyping When...
