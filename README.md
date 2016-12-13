@@ -191,7 +191,7 @@ Combination Linear and Iterative.
 #### Cons
 
 1. It is a challenge to determine methodology for each iteration.
-2. Being very complex due to its high constomization level.
+2. Being very complex due to its high customization level.
 3. Each cycle may generate more work for the next one, and this is not controlled.
 4. No clear termination condition.
 5. May need a experienced manager.
