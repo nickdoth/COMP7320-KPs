@@ -188,7 +188,7 @@ lower quilty, inconsistant design, may add more and more features
 - Owner
 - Environmental Constraint
 
-### Example - iPhone
+#### Example - iPhone
 
 - Customers: iPhone device users
 - Actors: Designers and engineers from Apple
