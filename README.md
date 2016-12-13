@@ -63,7 +63,7 @@ standardized level ~ !risk
 
 user familiarity ~ !risk
 
-## Determine Requirements
+## Determine Requirements (Ch.6)
 
 _*Teach you how to face with gods_
 
@@ -97,7 +97,7 @@ _*Teach you how to face with gods_
 
 #### Direct Observation
 
-- 
+- Observe user working directly (literally)
 - Cost time
 
 ## Object Oriented Tech. (From Guest Slides)
