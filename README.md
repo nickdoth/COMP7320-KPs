@@ -242,3 +242,8 @@ lower quilty, inconsistant design, may add more and more features
 - Worldview: People can only work near the desk with keyboard and pen, which is not convenient
 - Owner: Apple Inc.
 - Environment: Battery, Wireless Network, etc.
+
+### Activity Model
+
+* representation of minimum set of things to "do" with the root definition
+* activities modelled by verbs
