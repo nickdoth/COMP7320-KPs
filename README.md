@@ -17,7 +17,7 @@ Systems Developement Life Cycle:
   - Coding
   - Documentaion
   - Training Procedures
-- Maintance
+- Maintenance
 
 ## Agile
 
