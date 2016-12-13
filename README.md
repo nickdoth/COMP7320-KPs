@@ -6,7 +6,7 @@ The importance rate is higher after Ch.6
 
 Example details is not included
 
-## SDLC
+## SDLC (Ch.1)
 
 Systems Developement Life Cycle:
 
@@ -19,7 +19,7 @@ Systems Developement Life Cycle:
   - Training Procedures
 - Maintenance
 
-## Agile
+## Agile (Ch.1)
 
 ### Principles
 
@@ -33,11 +33,11 @@ Systems Developement Life Cycle:
 2. You have a **experienced and responsible** development **team**.
 3. **Customers** are glad to get **involve** to the development process.
 
-## Outsourcing
+## Outsourcing (Ch.2)
 
 Turning over some or all of the responsibility of an organization's information systems applications/operations to outside firm.
 
-## Project Risk Factors
+## Project Risk Factors (Ch.5)
 
 - Project Size
 - Project structure
@@ -75,7 +75,7 @@ user familiarity ~ !risk
   - 同样结构的对象可以有不同的行为，但是他们可以由相同的接口表示
   - Objects with a same structure can have different behaviours, but they can still be represented by one abstract interface.
 
-## CMS pdf
+## Methodology Selection (CMS.pdf)
 
 first 4-5 pros and cons, getting the key points is fine. Ignore the Incremental. 
 
