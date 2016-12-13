@@ -44,7 +44,7 @@ Generally,
 
 project size ~ risk
 
-ease to obtain and requirement structured level ~ !risk
+requirement structured and ease to obtain level ~ !risk
 
 standardized level ~ !risk
 
