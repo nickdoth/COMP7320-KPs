@@ -33,6 +33,10 @@ Systems Developement Life Cycle:
 2. You have a **experienced and responsible** development **team**.
 3. **Customers** are glad to get **involve** to the development process.
 
+## Outsourcing
+
+Turning over some or all of the responsibility of an organization's information systems applications/operations to outside firm.
+
 ## Project Risk Factors
 
 - Project Size
