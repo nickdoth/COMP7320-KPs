@@ -161,8 +161,7 @@ Combination Linear and Iterative.
 ### RAD
 ...
 
-_(CHAOS & BE EVIL)_
-
+_(CHAOS & BE EVIL)_😈
 #### Pros
 **FAST, CHEAP, READILY(FOR ALL), FLEXIBLE**
 
