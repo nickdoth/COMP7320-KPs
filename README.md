@@ -86,7 +86,7 @@ first 4-5 pros and cons, getting the key points is fine. Ignore the Incremental.
 1. Supports **less experienced or less stable** project teams/managers.
 2. Ensure the **orderly sequence** of development steps and strict controls for ensuring quality.
 3. Progress of project development is **measurable**.
-4. **Save resources**.
+4. **Save resources** (❓But costly?).
 
 #### Cons
 
